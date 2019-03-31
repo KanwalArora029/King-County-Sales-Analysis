@@ -1,8 +1,8 @@
 
-# Module 1 Project  - King County House Sales 
+# King County House Sales 
 
 
-### Matt Sparr - Self-Paced Data Science Program - Review 10/31/2018
+### Matt Sparr 
 
 ## Introduction
 <h4> The purpose of this project is to investigate the variables of homes sold in King County, Washington and to develop a model to accurately predict home sale prices. We will be following the OSEMiN model which involves the steps of obtain, scrub, explore, model, and finally interpret. 
